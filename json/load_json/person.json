@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Ozgur",
+    "age": "26",
+    "height": "183",
+    "gender": "male",
+    "hair_color": "black"
+  },
+  {
+    "name": "Meltem",
+    "age": "27",
+    "height": "160",
+    "gender": "female",
+    "hair_color": "black"
+  },
+  {
+    "name": "Emir",
+    "age": "27",
+    "height": "177",
+    "gender": "male",
+    "hair_color": "black"
+  },
+  {
+    "name": "Ahmet",
+    "age": "23",
+    "height": "183",
+    "gender": "male",
+    "hair_color": "black"
+  }
+]
