@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/age_calculator/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/age_calculator/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/age_calculator/build" />
+      <excludeFolder url="file://$MODULE_DIR$/bottomsheet/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bottomsheet/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bottomsheet/build" />
+      <excludeFolder url="file://$MODULE_DIR$/calculator/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/calculator/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/calculator/build" />
+      <excludeFolder url="file://$MODULE_DIR$/chatapp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/chatapp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/chatapp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/cryptoapp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/cryptoapp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/cryptoapp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutterdrawer/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutterdrawer/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutterdrawer/build" />
+      <excludeFolder url="file://$MODULE_DIR$/httpget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/httpget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/httpget/build" />
+      <excludeFolder url="file://$MODULE_DIR$/json/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/json/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/json/build" />
+      <excludeFolder url="file://$MODULE_DIR$/swipetodismiss/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/swipetodismiss/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/swipetodismiss/build" />
+      <excludeFolder url="file://$MODULE_DIR$/whatsapp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/whatsapp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/whatsapp/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
