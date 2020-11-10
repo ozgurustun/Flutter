@@ -23,10 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10e53ed6-ab58-45b0-ac06-3cd17fcf5c03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chatapp/lib/chat_message.dart" beforeDir="false" afterPath="$PROJECT_DIR$/chatapp/lib/chat_message.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/httpget/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/httpget/test/widget_test.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/json/test/widget_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/flutterdemos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flutterdemos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,34 +61,57 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/flutterdoc/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="whatsapp" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/whatsapp/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="/Users/ozgurustun/Desktop/Personal Training/Flutter Demos/flutterdemos/tictactoe/pubspec.yaml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="flutterdemos" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/tictactoe/pubspec.yaml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="whatsapp" type="FlutterRunConfigurationType" factoryName="Flutter">
-      <option name="filePath" value="$PROJECT_DIR$/whatsapp/lib/main.dart" />
-      <method v="2" />
-    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main.dart" />
+        <item itemvalue="TestNG./Users/ozgurustun/Desktop/Personal Training/Flutter Demos/flutterdemos/tictactoe/pubspec.yaml" />
+      </list>
+    </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="10e53ed6-ab58-45b0-ac06-3cd17fcf5c03" name="Default Changelist" comment="" />
@@ -100,8 +123,17 @@
       <workItem from="1604872776780" duration="46000" />
       <workItem from="1604872831623" duration="74000" />
       <workItem from="1604872915017" duration="473000" />
-      <workItem from="1604873405216" duration="3507000" />
+      <workItem from="1604873405216" duration="3866000" />
+      <workItem from="1604938136432" duration="2961000" />
     </task>
+    <task id="LOCAL-00001" summary="whatsapp clone">
+      <created>1604877183995</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604877183995</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +151,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="whatsapp clone" />
+    <option name="LAST_COMMIT_MESSAGE" value="whatsapp clone" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="440" y="184" key="#Plugins" timestamp="1604872873848">
       <screen x="0" y="23" width="1680" height="1027" />
@@ -129,22 +165,72 @@
     </state>
     <state x="304" y="179" width="1072" height="744" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050/-1920.-141.1920.1080@0.0.1680.1050" timestamp="1604873493736" />
     <state x="304" y="198" width="1071" height="702" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027/-1920.-118.1920.1057@0.23.1680.1027" timestamp="1604872990072" />
-    <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1604873733849">
+    <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1604939351257">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050/-1920.-141.1920.1080@0.0.1680.1050" timestamp="1604873733849" />
+    <state x="653" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1604939351257" />
     <state x="577" y="348" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1604873462311">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="577" y="348" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1680.1050/-1920.-141.1920.1080@0.0.1680.1050" timestamp="1604873462311" />
-    <state x="255" y="133" width="1162" height="722" key="SettingsEditor" timestamp="1604873393535">
+    <state x="578" y="278" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605034189851">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="278" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050/-1920.-141.1920.1080@0.0.1680.1050" timestamp="1605034189851" />
+    <state width="1636" height="295" key="GridCell.Tab.0.bottom" timestamp="1605046071053">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050/-1920.-141.1920.1080@0.0.1680.1050" timestamp="1605046071053" />
+    <state width="1636" height="295" key="GridCell.Tab.0.center" timestamp="1605046071050">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="295" key="GridCell.Tab.0.center/0.0.1680.1050/-1920.-141.1920.1080@0.0.1680.1050" timestamp="1605046071050" />
+    <state width="1636" height="295" key="GridCell.Tab.0.left" timestamp="1605046071048">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="295" key="GridCell.Tab.0.left/0.0.1680.1050/-1920.-141.1920.1080@0.0.1680.1050" timestamp="1605046071048" />
+    <state width="1636" height="295" key="GridCell.Tab.0.right" timestamp="1605046071052">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="295" key="GridCell.Tab.0.right/0.0.1680.1050/-1920.-141.1920.1080@0.0.1680.1050" timestamp="1605046071052" />
+    <state width="1636" height="295" key="GridCell.Tab.1.bottom" timestamp="1605046071059">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="295" key="GridCell.Tab.1.bottom/0.0.1680.1050/-1920.-141.1920.1080@0.0.1680.1050" timestamp="1605046071059" />
+    <state width="1636" height="295" key="GridCell.Tab.1.center" timestamp="1605046071057">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="295" key="GridCell.Tab.1.center/0.0.1680.1050/-1920.-141.1920.1080@0.0.1680.1050" timestamp="1605046071057" />
+    <state width="1636" height="295" key="GridCell.Tab.1.left" timestamp="1605046071054">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="295" key="GridCell.Tab.1.left/0.0.1680.1050/-1920.-141.1920.1080@0.0.1680.1050" timestamp="1605046071054" />
+    <state width="1636" height="295" key="GridCell.Tab.1.right" timestamp="1605046071058">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="295" key="GridCell.Tab.1.right/0.0.1680.1050/-1920.-141.1920.1080@0.0.1680.1050" timestamp="1605046071058" />
+    <state x="255" y="133" width="1224" height="722" key="SettingsEditor" timestamp="1605040238609">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="255" y="133" width="1162" height="722" key="SettingsEditor/0.0.1680.1050/-1920.-141.1920.1080@0.0.1680.1050" timestamp="1604873393535" />
+    <state x="255" y="133" width="1224" height="722" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1605040238609" />
     <state x="371" y="175" key="SettingsEditor/0.23.1680.1027/-1920.-118.1920.1057@0.23.1680.1027" timestamp="1604872951215" />
-    <state x="503" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1604876273561">
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1604877226384">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027/-1920.-118.1920.1057@0.23.1680.1027" timestamp="1604877226384" />
+    <state x="503" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1604939549486">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="503" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1680.1050/-1920.-141.1920.1080@0.0.1680.1050" timestamp="1604876273561" />
+    <state x="503" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1604939549486" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint suspend="THREAD" type="dart-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

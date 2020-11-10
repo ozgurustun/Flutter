@@ -18,6 +18,9 @@
       <excludeFolder url="file://$MODULE_DIR$/cryptoapp/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/cryptoapp/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/cryptoapp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutterdoc/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutterdoc/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutterdoc/build" />
       <excludeFolder url="file://$MODULE_DIR$/flutterdrawer/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/flutterdrawer/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/flutterdrawer/build" />
@@ -30,6 +33,9 @@
       <excludeFolder url="file://$MODULE_DIR$/swipetodismiss/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/swipetodismiss/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/swipetodismiss/build" />
+      <excludeFolder url="file://$MODULE_DIR$/tictactoe/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/tictactoe/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/tictactoe/build" />
       <excludeFolder url="file://$MODULE_DIR$/whatsapp/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/whatsapp/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/whatsapp/build" />
